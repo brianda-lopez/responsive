@@ -1,0 +1,27 @@
+   
+#body{
+     background-color: #ffffff;
+
+}
+
+#main{
+    background-color: blueviolet;
+    text-align: center;
+    font-size: 18px;
+    width: 960px;
+    height: 900px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.row{
+    height: 10 px;
+    padding: 20px;
+}
+    
+#footer{
+    background-color: #666666;
+    text-align: center;
+    color: grey
+    height: 300px;
+}
